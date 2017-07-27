@@ -1,0 +1,9 @@
+{
+    "name": "scraper",
+    "version": "1.0.0",
+    "description": "Scrape",
+    "dependencies": {
+        "@types/phantomjs": "1.9.29",
+        "@types/jquery": "2.0.39"
+    }
+}
